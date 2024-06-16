@@ -28,7 +28,7 @@ images:
 cpus: 12
 # Memory size 
 # 🟢 Builtin default: "4GiB" 
-memory: "24GiB"
+memory: "12GiB"
 # Disk size 
 # 🟢 Builtin default: "100GiB" 
 disk: null
