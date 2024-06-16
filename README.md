@@ -1,1 +1,1 @@
-# Lima
+Lima+Ubuntu のメモ
